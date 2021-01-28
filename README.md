@@ -287,10 +287,10 @@ volumeBtn.addEventListener('click',function(e){
 
 ## OUTPUT:
 
-![output](./media/photo/ma1.png)
-![output](./media/photo/vc1.png)
-![output](./media/photo/mav1.png)
-![output](./media/photo/csv1.png)
+![output](./static/img/ma1.png)
+![output](./static/img/vc1.png)
+![output](./static/img/mav1.png)
+![output](./static/img/csv1.png)
 
 
 
