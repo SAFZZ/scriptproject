@@ -286,13 +286,14 @@ volumeBtn.addEventListener('click',function(e){
 ```
 
 ## OUTPUT:
+```
 
 ![output](./static/img/ma1.png)
 ![output](./static/img/vc1.png)
 ![output](./static/img/mav1.png)
 ![output](./static/img/csv1.png)
 
-
+```
 
 ## RESULT:
 Thus a website is designed for calculating the sum of two numbers and volume of a cylinder is hosted in the URL http://safa.student.saveetha.in:8000/mathadd/ and http://safa.student.saveetha.in:8000/cylindervolume/ . HTML code is validated.
